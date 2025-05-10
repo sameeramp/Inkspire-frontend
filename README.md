@@ -2,7 +2,6 @@
 
 **Inkspire** is a full-stack blogging platform crafted with **React.js** and **Node.js**, designed for writers, creators, and readers alike. Whether you're journaling your thoughts, publishing technical tutorials, or sharing stories with the world—Inkspire provides a clean, modern, and intuitive interface to do it all.
 
-🌐 **Live Demo**: [https://inkspire-app.netlify.app/home](https://inkspire-app.netlify.app/home)
 
 ---
 

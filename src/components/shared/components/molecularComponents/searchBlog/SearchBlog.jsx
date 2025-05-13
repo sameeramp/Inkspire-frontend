@@ -7,8 +7,9 @@ export const SearchBlog = ({
   handleClickSearch,
 }) => {
   return (
-    <form className="form-home">
-      <input
+    <form  style={{border:"2px solid", width:'500px'}} className="form-home">
+      <input 
+     
         className={`form-input ${
           searchInput.trim() === "" && "hide-search-input"
         }`}

@@ -8,17 +8,17 @@ $zero: 0;
 $fivePx: 5px;
 
 nav {
-  background-color: #333;
-  height: 100px;
+  background-color: #0a0a0a;
+  height: 70px;
   display: $flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   position: relative;
   z-index: 1;
   width: 100%;
-
+ 
   .logo-img {
-    height: 9vw;
+    height: 4vw;
     width: 9vw;
     cursor: pointer;
 

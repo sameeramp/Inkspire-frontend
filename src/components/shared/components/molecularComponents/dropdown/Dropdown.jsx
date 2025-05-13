@@ -4,6 +4,7 @@ import "./Style.scss";
 export const Dropdown = ({ location, handleLocation }) => {
   return (
     <select
+    style={{border:"2px solid", width:"500px"}}
       className="dropdown"
       name="location"
       id="location"

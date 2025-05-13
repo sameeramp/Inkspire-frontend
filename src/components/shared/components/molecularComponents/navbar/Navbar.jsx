@@ -16,6 +16,7 @@ import {
   REGISTER,
   SHOW_BLOGS,
 } from "../../../../constants";
+// import logo from '../../.../../../../../../public/image/logo1.png'
 
 export const Navbar = () => {
   const dispatch = useDispatch();
@@ -59,7 +60,7 @@ export const Navbar = () => {
     <nav>
       <img
         onClick={handleHome}
-        src="http://surl.li/hntuu"
+        src="/image/logo1.jpeg"
         className="logo-img"
         alt="blogger-logo"
       />
